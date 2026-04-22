@@ -1,0 +1,152 @@
+﻿,DAY,TEAM_1,TEAM_1_XG,SCORE,TEAM_2,TEAM_2_XG
+1,Tue,Juventus,2.9,3–1,PSV Eindhoven,1
+1,Tue,Young Boys,0.6,0–3,Aston Villa,2
+1,Tue,Sporting CP,1.6,2–0,Lille,0.4
+1,Tue,Bayern Munich,5.9,9–2,Dinamo Zagreb,0.7
+1,Tue,Real Madrid,2.6,3–1,Stuttgart,1.9
+1,Tue,Milan,0.6,1–3,Liverpool,3.1
+1,Wed,Sparta Prague,2.5,3–0,RB Salzburg,0.6
+1,Wed,Bologna,1.2,0–0,Shakthar,0.9
+1,Wed,Manchester City,2.3,0–0,Inter,0.7
+1,Wed,Celtic,3.8,5–1,Slovan Bratislava,0.5
+1,Wed,Paris S-G,2.1,1–0,Girona,0.2
+1,Wed,Club Brugge,1.2,0–3,Dortmund,1.9
+1,Thu,Feyenoord,0.8,0–4,Leverkusen,1.7
+1,Thu,Red Star,1,1–2,Benfica,1.3
+1,Thu,Monaco,1.3,2–1,Barcelona,0.4
+1,Thu,Atlético Madrid,1.7,2–1,RB Leipzig,0.7
+1,Thu,Brest,2.1,2–1,Sturm Graz,0.5
+1,Thu,Atalanta,1.2,0–0,Arsenal,0.8
+,,,,,,
+2,Tue,RB Salzburg,1.6,0–4,Brest,2
+2,Tue,Stuttgart,1.7,1–1,Sparta Prague,1
+2,Tue,Arsenal,0.7,2–0,Paris S-G,0.4
+2,Tue,Slovan Bratislava,0.1,0–4,Manchester City,3.7
+2,Tue,Leverkusen,1.8,1–0,Milan,1
+2,Tue,Dortmund,2.6,7–1,Celtic,2.1
+2,Tue,Barcelona,3.4,5–0,Young Boys,0.8
+2,Tue,Inter,2.8,4–0,Red Star,0.5
+2,Tue,PSV Eindhoven,2.6,1–1,Sporting CP,1.3
+2,Wed,Shakthar,0.3,0–3,Atalanta,2.6
+2,Wed,Girona,2.2,2–3,Feyenoord,1.9
+2,Wed,Liverpool,1.2,2–0,Bologna,0.6
+2,Wed,Benfica,4.4,4–0,Atlético Madrid,0.2
+2,Wed,Aston Villa,0.4,1–0,Bayern Munich,1.5
+2,Wed,Dinamo Zagreb,1,2–2,Monaco,1.9
+2,Wed,RB Leipzig,3.3,2–3,Juventus,1.2
+2,Wed,Sturm Graz,0.4,0–1,Club Brugge,0.7
+2,Wed,Lille,1.1,1–0,Real Madrid,2
+,,,,,,
+3,Tue,Monaco,3.3,5–1,Red Star,1
+3,Tue,Milan,1.2,3–1,Club Brugge,0.6
+3,Tue,Aston Villa,1.2,2–0,Bologna,0.9
+3,Tue,Arsenal,1.8,1–0,Shakthar,0.7
+3,Tue,Paris S-G,2.5,1–1,PSV Eindhoven,0.2
+3,Tue,Girona,1.7,2–0,Slovan Bratislava,0.5
+3,Tue,Real Madrid,3.5,5–2,Dortmund,1.6
+3,Tue,Juventus,0.2,0–1,Stuttgart,2.5
+3,Tue,Sturm Graz,0.7,0–2,Sporting CP,1.4
+3,Wed,Brest,0.5,1–1,Leverkusen,1
+3,Wed,Atalanta,2.4,0–0,Celtic,0.3
+3,Wed,Manchester City,2.9,5–0,Sparta Prague,0.2
+3,Wed,Benfica,1.7,1–3,Feyenoord,1
+3,Wed,Barcelona,2.2,4–1,Bayern Munich,1
+3,Wed,RB Salzburg,1.2,0–2,Dinamo Zagreb,1.6
+3,Wed,RB Leipzig,0.8,0–1,Liverpool,2.3
+3,Wed,Young Boys,0.8,0–1,Inter,3.3
+3,Wed,Atlético Madrid,2.3,1–3,Lille,1.3
+,,,,,,
+4,Tue,PSV Eindhoven,2,4–0,Girona,0.8
+4,Tue,Slovan Bratislava,1.7,1–4,Dinamo Zagreb,1.5
+4,Tue,Sporting CP,2.9,4–1,Manchester City,2.1
+4,Tue,Celtic,1.8,3–1,RB Leipzig,1.3
+4,Tue,Liverpool,3.7,4–0,Leverkusen,0.9
+4,Tue,Lille,0.8,1–1,Juventus,1.4
+4,Tue,Bologna,0.5,0–1,Monaco,0.9
+4,Tue,Real Madrid,2.6,1–3,Milan,2.5
+4,Tue,Dortmund,2,1–0,Sturm Graz,0.4
+4,Wed,Club Brugge,1.4,1–0,Aston Villa,0.4
+4,Wed,Shakthar,2,2–1,Young Boys,1
+4,Wed,Red Star,0.2,2–5,Barcelona,3.6
+4,Wed,Sparta Prague,0.5,1–2,Brest,1.6
+4,Wed,Paris S-G,2.1,1–2,Atlético Madrid,0.7
+4,Wed,Stuttgart,1,0–2,Atalanta,2.3
+4,Wed,Bayern Munich,1.4,1–0,Benfica,0.1
+4,Wed,Feyenoord,0.8,1–3,RB Salzburg,1.7
+4,Wed,Inter,1.1,1–0,Arsenal,1.8
+,,,,,,
+5,Tue,Sparta Prague,0.2,0–6,Atlético Madrid,3.1
+5,Tue,Slovan Bratislava,1.5,2–3,Milan,1.9
+5,Tue,Manchester City,2.1,3–3,Feyenoord,2.2
+5,Tue,Sporting CP,1,1–5,Arsenal,4
+5,Tue,Leverkusen,4.3,5–0,RB Salzburg,0.3
+5,Tue,Bayern Munich,2.4,1–0,Paris S-G,0.8
+5,Tue,Inter,1.4,1–0,RB Leipzig,0.1
+5,Tue,Barcelona,2.8,3–0,Brest,0.1
+5,Tue,Young Boys,0.8,1–6,Atalanta,2.5
+5,Wed,Sturm Graz,0.8,1–0,Girona,1.7
+5,Wed,Red Star,1.8,5–1,Stuttgart,0.6
+5,Wed,Celtic,1,1–1,Club Brugge,1.1
+5,Wed,Aston Villa,1.2,0–0,Juventus,0.4
+5,Wed,Liverpool,2.7,2–0,Real Madrid,1.2
+5,Wed,Bologna,1.7,1–2,Lille,2.1
+5,Wed,Dinamo Zagreb,0.2,0–3,Dortmund,1.7
+5,Wed,Monaco,1.6,2–3,Benfica,3
+5,Wed,PSV Eindhoven,2.6,3–2,Shakthar,1
+,,,,,,
+6,Tue,Dinamo Zagreb,0.5,0–0,Celtic,0.4
+6,Tue,Girona,1.2,0–1,Liverpool,1.8
+6,Tue,RB Leipzig,2.2,2–3,Aston Villa,2.1
+6,Tue,Brest,1.6,1–0,PSV Eindhoven,1.6
+6,Tue,RB Salzburg,0.2,0–3,Paris S-G,3.2
+6,Tue,Atalanta,3.3,2–3,Real Madrid,2.1
+6,Tue,Leverkusen,1.1,1–0,Inter,0.3
+6,Tue,Club Brugge,1,2–1,Sporting CP,1.2
+6,Tue,Shakthar,1.2,1–5,Bayern Munich,3.6
+6,Wed,Atlético Madrid,2,3–1,Slovan Bratislava,1
+6,Wed,Lille,2,3–2,Sturm Graz,1.3
+6,Wed,Benfica,1.3,0–0,Bologna,0.2
+6,Wed,Arsenal,2.3,3–0,Monaco,0.5
+6,Wed,Milan,2,2–1,Red Star,0.4
+6,Wed,Feyenoord,1,4–2,Sparta Prague,0.7
+6,Wed,Dortmund,2.7,2–3,Barcelona,2
+6,Wed,Stuttgart,2.3,5–1,Young Boys,0.2
+6,Wed,Juventus,1.1,2–0,Manchester City,1.2
+,,,,,,
+7,Tue,Monaco,1.5,1–0,Aston Villa,0.9
+7,Tue,Atalanta,4.9,5–0,Sturm Graz,0.8
+7,Tue,Liverpool,2.5,2–1,Lille,0.5
+7,Tue,Benfica,3.3,4–5,Barcelona,3.6
+7,Tue,Slovan Bratislava,0.6,1–3,Stuttgart,3.4
+7,Tue,Atlético Madrid,0.8,2–1,Leverkusen,0.8
+7,Tue,Red Star,2.6,2–3,PSV Eindhoven,0.8
+7,Tue,Bologna,2.1,2–1,Dortmund,1
+7,Tue,Club Brugge,0.7,0–0,Juventus,0.4
+7,Wed,RB Leipzig,2.3,2–1,Sporting CP,0.9
+7,Wed,Shakthar,1.9,2–0,Brest,0.4
+7,Wed,Celtic,1.8,1–0,Young Boys,1
+7,Wed,Arsenal,2.4,3–0,Dinamo Zagreb,0.1
+7,Wed,Paris S-G,2.8,4–2,Manchester City,1.7
+7,Wed,Feyenoord,1.7,3–0,Bayern Munich,2.4
+7,Wed,Real Madrid,2.8,5–1,RB Salzburg,0.4
+7,Wed,Sparta Prague,0.4,0–1,Inter,0.9
+7,Wed,Milan,1.3,1–0,Girona,1
+,,,,,,
+8,Wed,Manchester City,2,3–1,Club Brugge,1.1
+8,Wed,Sporting CP,1.3,1–1,Bologna,1.1
+8,Wed,Aston Villa,3.9,4–2,Celtic,0.8
+8,Wed,Juventus,0.9,0–2,Benfica,2.2
+8,Wed,Brest,1.4,0–3,Real Madrid,2.6
+8,Wed,RB Salzburg,0.6,1–4,Atlético Madrid,2.1
+8,Wed,Dinamo Zagreb,1.4,2–1,Milan,1.1
+8,Wed,Bayern Munich,3.7,3–1,Slovan Bratislava,0.9
+8,Wed,Sturm Graz,1.3,1–0,RB Leipzig,1.5
+8,Wed,Lille,1.3,6–1,Feyenoord,0.7
+8,Wed,Girona,0.7,1–2,Arsenal,2.1
+8,Wed,Young Boys,0.4,0–1,Red Star,1.8
+8,Wed,Stuttgart,0.8,1–4,Paris S-G,2.4
+8,Wed,Inter,3.9,3–0,Monaco,0.2
+8,Wed,Dortmund,2.4,3–1,Shakthar,0.4
+8,Wed,Barcelona,2.4,2–2,Atalanta,1.2
+8,Wed,PSV Eindhoven,1.3,3–2,Liverpool,1.6
+8,Wed,Leverkusen,1.7,2–0,Sparta Prague,0.7

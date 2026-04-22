@@ -1,0 +1,37 @@
+Team,Massey_Rating,,,Team,Massey_Rating,,,Team,PF_Rating
+Barcelona,2.0790,,,Bayern Munich,1.7830,,,Barcelona,0.0576
+Arsenal,1.8037,,,Barcelona,1.5553,,,Real Madrid,0.0497
+Liverpool,1.7989,,,Atalanta,1.4963,,,Atalanta,0.0492
+Atalanta,1.7267,,,Arsenal,1.4576,,,Benfica,0.0463
+Dortmund,1.2680,,,Liverpool,1.4008,,,Liverpool,0.0459
+Lille,1.2312,,,Paris S-G,1.3774,,,Bayern Munich,0.0448
+Real Madrid,1.2143,,,Benfica,1.2147,,,Dortmund,0.0401
+Inter,0.8899,,,Inter,0.8873,,,Paris S-G,0.0358
+Bayern Munich,0.8684,,,Manchester City,0.5959,,,Arsenal,0.0348
+Benfica,0.8538,,,Real Madrid,0.5770,,,Manchester City,0.0336
+Aston Villa,0.6677,,,Leverkusen,0.4172,,,Inter,0.0313
+Leverkusen,0.6179,,,Aston Villa,0.2782,,,Monaco,0.0301
+Monaco,0.5539,,,Dortmund,0.2778,,,Stuttgart,0.0293
+PSV Eindhoven,0.5353,,,Monaco,0.2469,,,Milan,0.0269
+Paris S-G,0.4537,,,Stuttgart,0.1922,,,PSV Eindhoven,0.0266
+Juventus,0.4355,,,Bologna,0.0387,,,RB Leipzig,0.0261
+Sporting CP,0.3941,,,Atlético Madrid,-0.0515,,,Sporting CP,0.0260
+Atlético Madrid,0.3481,,,RB Leipzig,-0.0795,,,Feyenoord,0.0248
+Bologna,0.1528,,,PSV Eindhoven,-0.2755,,,Aston Villa,0.0248
+Milan,0.0703,,,Club Brugge,-0.3155,,,Celtic,0.0239
+Manchester City,0.0304,,,Milan,-0.3253,,,Leverkusen,0.0238
+Club Brugge,-0.3112,,,Girona,-0.3717,,,Red Star,0.0235
+Brest,-0.3769,,,Sporting CP,-0.3862,,,Bologna,0.0217
+RB Leipzig,-0.4776,,,Red Star,-0.4156,,,Juventus,0.0212
+Celtic,-0.5429,,,Feyenoord,-0.4187,,,Girona,0.0211
+Shakthar,-0.5449,,,Juventus,-0.4205,,,Lille,0.0208
+Feyenoord,-0.6820,,,Celtic,-0.5072,,,Atlético Madrid,0.0206
+Sturm Graz,-0.8123,,,Shakthar,-0.5479,,,Shakthar,0.0196
+Red Star,-0.9251,,,Lille,-0.5747,,,Brest,0.0188
+Girona,-0.9527,,,Brest,-0.6406,,,Club Brugge,0.0187
+Stuttgart,-1.0460,,,Sparta Prague,-1.0036,,,Young Boys,0.0159
+Dinamo Zagreb,-1.0907,,,Dinamo Zagreb,-1.2414,,,Slovan Bratislava,0.0146
+Sparta Prague,-2.1471,,,Young Boys,-1.3202,,,Sturm Graz,0.0145
+Young Boys,-2.3369,,,Sturm Graz,-1.3368,,,Dinamo Zagreb,0.0143
+Slovan Bratislava,-2.7894,,,RB Salzburg,-1.7105,,,RB Salzburg,0.0123
+RB Salzburg,-2.9578,,,Slovan Bratislava,-1.8533,,,Sparta Prague,0.0109

@@ -1,0 +1,37 @@
+Team,Massey_Rating_XG,PF_Rating,,,,,real ,,xg,,,Team,Massey_Rating
+Bayern Munich,1.783,0.045,,,,,"1,Liverpool",,Bayern Munich,,,Barcelona,2.079
+Barcelona,1.555,0.058,,,,,"2,Barcelona",,Barcelona,,,Arsenal,1.804
+Atalanta,1.496,0.049,,,,,"3,Arsenal",,Atalanta,,,Liverpool,1.799
+Arsenal,1.458,0.035,,,,,"4,Inter",,Arsenal,,,Atalanta,1.727
+Liverpool,1.401,0.046,,,,,"5,Atl�tico Madrid",,Liverpool,,,Dortmund,1.268
+Paris S-G,1.377,0.036,,,,,"6,Bayer Leverkusen",,Paris S-G,,,Lille,1.231
+Benfica,1.215,0.046,,,,,"7,Lille",,Benfica,,,Real Madrid,1.214
+Inter,0.887,0.031,,,,,"8,Aston Villa",,Inter,,,Inter,0.890
+Manchester City,0.596,0.034,,,,,"9,Atalanta",,Manchester City,,,Bayern Munich,0.868
+Real Madrid,0.577,0.050,,,,,"10,Borussia Dortmund",,Real Madrid,,,Benfica,0.854
+Leverkusen,0.417,0.024,,,,,"11,Real Madrid",,Leverkusen,,,Aston Villa,0.668
+Aston Villa,0.278,0.025,,,,,"12,Bayern Munich",,Aston Villa,,,Leverkusen,0.618
+Dortmund,0.278,0.040,,,,,"13,AC Milan",,Dortmund,,,Monaco,0.554
+Monaco,0.247,0.030,,,,,"14,PSV Eindhoven",,Monaco,,,PSV Eindhoven,0.535
+Stuttgart,0.192,0.029,,,,,"15,Paris Saint-Germain",,Stuttgart,,,Paris S-G,0.454
+Bologna,0.039,0.022,,,,,"16,Benfica",,Bologna,,,Juventus,0.435
+Atlético Madrid,-0.052,0.021,,,,,"17,AS Monaco",,Atlético Madrid,,,Sporting CP,0.394
+RB Leipzig,-0.079,0.026,,,,,"18,Brest",,RB Leipzig,,,Atlético Madrid,0.348
+PSV Eindhoven,-0.276,0.027,,,,,"19,Feyenoord",,PSV Eindhoven,,,Bologna,0.153
+Club Brugge,-0.316,0.019,,,,,"20,Juventus",,Club Brugge,,,Milan,0.070
+Milan,-0.325,0.027,,,,,"21,Celtic",,Milan,,,Manchester City,0.030
+Girona,-0.372,0.021,,,,,"22,Manchester City",,Girona,,,Club Brugge,-0.311
+Sporting CP,-0.386,0.026,,,,,"23,Sporting CP",,Sporting CP,,,Brest,-0.377
+Red Star,-0.416,0.023,,,,,"24,Club Brugge",,Red Star,,,RB Leipzig,-0.478
+Feyenoord,-0.419,0.025,,,,,"25,Dinamo Zagreb",,Feyenoord,,,Celtic,-0.543
+Juventus,-0.421,0.021,,,,,"26,Stuttgart",,Juventus,,,Shakthar,-0.545
+Celtic,-0.507,0.024,,,,,"27,Shakhtar Donetsk",,Celtic,,,Feyenoord,-0.682
+Shakthar,-0.548,0.020,,,,,"28,Bologna",,Shakthar,,,Sturm Graz,-0.812
+Lille,-0.575,0.021,,,,,"29,Red Star Belgrade",,Lille,,,Red Star,-0.925
+Brest,-0.641,0.019,,,,,"30,Sturm Graz",,Brest,,,Girona,-0.953
+Sparta Prague,-1.004,0.011,,,,,"31,Sparta Prague",,Sparta Prague,,,Stuttgart,-1.046
+Dinamo Zagreb,-1.241,0.014,,,,,"32,RB Leipzig",,Dinamo Zagreb,,,Dinamo Zagreb,-1.091
+Young Boys,-1.320,0.016,,,,,"33,Girona",,Young Boys,,,Sparta Prague,-2.147
+Sturm Graz,-1.337,0.014,,,,,"34,RB Salzburg",,Sturm Graz,,,Young Boys,-2.337
+RB Salzburg,-1.711,0.012,,,,,"35,Slovan Bratislava",,RB Salzburg,,,Slovan Bratislava,-2.789
+Slovan Bratislava,-1.853,0.015,,,,,"36,Young Boys",,Slovan Bratislava,,,RB Salzburg,-2.958

@@ -1,0 +1,152 @@
+﻿,DAY,TEAM_1,TEAM_1_G,SCORE,TEAM_2,TEAM_2_G,,,,,
+1,Tue,Juventus,3,3–1,PSV Eindhoven,1,,,,,
+1,Tue,Young Boys,0,0–3,Aston Villa,3,,,,,
+1,Tue,Sporting CP,2,2–0,Lille,0,,,,,
+1,Tue,Bayern Munich,9,9–2,Dinamo Zagreb,2,,,,,
+1,Tue,Real Madrid,3,3–1,Stuttgart,1,,,,,
+1,Tue,Milan,1,1–3,Liverpool,3,,,,,
+1,Wed,Sparta Prague,3,3–0,RB Salzburg,0,,,,,
+1,Wed,Bologna,0,0–0,Shakthar,0,,,,,
+1,Wed,Manchester City,0,0–0,Inter,0,,,,,
+1,Wed,Celtic,5,5–1,Slovan Bratislava,1,,,,,
+1,Wed,Paris S-G,1,1–0,Girona,0,,,,,
+1,Wed,Club Brugge,0,0–3,Dortmund,3,,,,,
+1,Thu,Feyenoord,0,0–4,Leverkusen,4,,,,,
+1,Thu,Red Star,1,1–2,Benfica,2,,,,,
+1,Thu,Monaco,2,2–1,Barcelona,1,,,,,
+1,Thu,Atlético Madrid,2,2–1,RB Leipzig,1,,,,,
+1,Thu,Brest,2,2–1,Sturm Graz,1,,,,,
+1,Thu,Atalanta,0,0–0,Arsenal,0,,,,,
+,,,,,,,,,,,
+2,Tue,RB Salzburg,0,0–4,Brest,4,,,,,
+2,Tue,Stuttgart,1,1–1,Sparta Prague,1,,,,,
+2,Tue,Arsenal,2,2–0,Paris S-G,0,,,,,
+2,Tue,Slovan Bratislava,0,0–4,Manchester City,4,,,,,
+2,Tue,Leverkusen,1,1–0,Milan,0,,,,,
+2,Tue,Dortmund,7,7–1,Celtic,1,,,,,
+2,Tue,Barcelona,5,5–0,Young Boys,0,,,,,
+2,Tue,Inter,4,4–0,Red Star,0,,,,,
+2,Tue,PSV Eindhoven,1,1–1,Sporting CP,1,,,,,
+2,Wed,Shakthar,0,0–3,Atalanta,3,,,,,
+2,Wed,Girona,2,2–3,Feyenoord,3,,,,,
+2,Wed,Liverpool,2,2–0,Bologna,0,,,,,
+2,Wed,Benfica,4,4–0,Atlético Madrid,0,,,,,
+2,Wed,Aston Villa,1,1–0,Bayern Munich,0,,,,,
+2,Wed,Dinamo Zagreb,2,2–2,Monaco,2,,,,,
+2,Wed,RB Leipzig,2,2–3,Juventus,3,,,,,
+2,Wed,Sturm Graz,0,0–1,Club Brugge,1,,,,,
+2,Wed,Lille,1,1–0,Real Madrid,0,,,,,
+,,,,,,,,,,,
+3,Tue,Monaco,5,5–1,Red Star,1,,,,,
+3,Tue,Milan,3,3–1,Club Brugge,1,,,,,
+3,Tue,Aston Villa,2,2–0,Bologna,0,,,,,
+3,Tue,Arsenal,1,1–0,Shakthar,0,,,,,
+3,Tue,Paris S-G,1,1–1,PSV Eindhoven,1,,,,,
+3,Tue,Girona,2,2–0,Slovan Bratislava,0,,,,,
+3,Tue,Real Madrid,5,5–2,Dortmund,2,,,,,
+3,Tue,Juventus,0,0–1,Stuttgart,1,,,,,
+3,Tue,Sturm Graz,0,0–2,Sporting CP,2,,,,,
+3,Wed,Brest,1,1–1,Leverkusen,1,,,,,
+3,Wed,Atalanta,0,0–0,Celtic,0,,,,,
+3,Wed,Manchester City,5,5–0,Sparta Prague,0,,,,,
+3,Wed,Benfica,1,1–3,Feyenoord,3,,,,,
+3,Wed,Barcelona,4,4–1,Bayern Munich,1,,,,,
+3,Wed,RB Salzburg,0,0–2,Dinamo Zagreb,2,,,,,
+3,Wed,RB Leipzig,0,0–1,Liverpool,1,,,,,
+3,Wed,Young Boys,0,0–1,Inter,1,,,,,
+3,Wed,Atlético Madrid,1,1–3,Lille,3,,,,,
+,,,,,,,,,,,
+4,Tue,PSV Eindhoven,4,4–0,Girona,0,,,,,
+4,Tue,Slovan Bratislava,1,1–4,Dinamo Zagreb,4,,,,,
+4,Tue,Sporting CP,4,4–1,Manchester City,1,,,,,
+4,Tue,Celtic,3,3–1,RB Leipzig,1,,,,,
+4,Tue,Liverpool,4,4–0,Leverkusen,0,,,,,
+4,Tue,Lille,1,1–1,Juventus,1,,,,,
+4,Tue,Bologna,0,0–1,Monaco,1,,,,,
+4,Tue,Real Madrid,1,1–3,Milan,3,,,,,
+4,Tue,Dortmund,1,1–0,Sturm Graz,0,,,,,
+4,Wed,Club Brugge,1,1–0,Aston Villa,0,,,,,
+4,Wed,Shakthar,2,2–1,Young Boys,1,,,,,
+4,Wed,Red Star,2,2–5,Barcelona,5,,,,,
+4,Wed,Sparta Prague,1,1–2,Brest,2,,,,,
+4,Wed,Paris S-G,1,1–2,Atlético Madrid,2,,,,,
+4,Wed,Stuttgart,0,0–2,Atalanta,2,,,,,
+4,Wed,Bayern Munich,1,1–0,Benfica,0,,,,,
+4,Wed,Feyenoord,1,1–3,RB Salzburg,3,,,,,
+4,Wed,Inter,1,1–0,Arsenal,0,,,,,
+,,,,,,,,,,,
+5,Tue,Sparta Prague,0,0–6,Atlético Madrid,6,,,,0,6
+5,Tue,Slovan Bratislava,2,2–3,Milan,3,,,,2,3
+5,Tue,Manchester City,3,3–3,Feyenoord,3,,,,3,3
+5,Tue,Sporting CP,1,1–5,Arsenal,5,,,,1,5
+5,Tue,Leverkusen,5,5–0,RB Salzburg,0,,,,5,0
+5,Tue,Bayern Munich,1,1–0,Paris S-G,0,,,,1,0
+5,Tue,Inter,1,1–0,RB Leipzig,0,,,,1,0
+5,Tue,Barcelona,3,3–0,Brest,0,,,,3,0
+5,Tue,Young Boys,1,1–6,Atalanta,6,,,,1,6
+5,Wed,Sturm Graz,1,1–0,Girona,0,,,,1,0
+5,Wed,Red Star,5,5–1,Stuttgart,1,,,,5,1
+5,Wed,Celtic,1,1–1,Club Brugge,1,,,,1,1
+5,Wed,Aston Villa,0,0–0,Juventus,0,,,,0,0
+5,Wed,Liverpool,2,2–0,Real Madrid,0,,,,2,0
+5,Wed,Bologna,1,1–2,Lille,2,,,,1,2
+5,Wed,Dinamo Zagreb,0,0–3,Dortmund,3,,,,0,3
+5,Wed,Monaco,2,2–3,Benfica,3,,,,2,3
+5,Wed,PSV Eindhoven,3,3–2,Shakthar,2,,,,3,2
+,,,,,,,,,,,
+6,Tue,Dinamo Zagreb,0,0–0,Celtic,0,,,,0,0
+6,Tue,Girona,0,0–1,Liverpool,1,,,,0,1
+6,Tue,RB Leipzig,2,2–3,Aston Villa,3,,,,2,3
+6,Tue,Brest,1,1–0,PSV Eindhoven,0,,,,1,0
+6,Tue,RB Salzburg,0,0–3,Paris S-G,3,,,,0,3
+6,Tue,Atalanta,2,2–3,Real Madrid,3,,,,2,3
+6,Tue,Leverkusen,1,1–0,Inter,0,,,,1,0
+6,Tue,Club Brugge,2,2–1,Sporting CP,1,,,,2,1
+6,Tue,Shakthar,1,1–5,Bayern Munich,5,,,,1,5
+6,Wed,Atlético Madrid,3,3–1,Slovan Bratislava,1,,,,3,1
+6,Wed,Lille,3,3–2,Sturm Graz,2,,,,3,2
+6,Wed,Benfica,0,0–0,Bologna,0,,,,0,0
+6,Wed,Arsenal,3,3–0,Monaco,0,,,,3,0
+6,Wed,Milan,2,2–1,Red Star,1,,,,2,1
+6,Wed,Feyenoord,4,4–2,Sparta Prague,2,,,,4,2
+6,Wed,Dortmund,2,2–3,Barcelona,3,,,,2,3
+6,Wed,Stuttgart,5,5–1,Young Boys,1,,,,5,1
+6,Wed,Juventus,2,2–0,Manchester City,0,,,,2,0
+,,,,,,,,,,,
+7,Tue,Monaco,1,1–0,Aston Villa,0,,,,1,0
+7,Tue,Atalanta,5,5–0,Sturm Graz,0,,,,5,0
+7,Tue,Liverpool,2,2–1,Lille,1,,,,2,1
+7,Tue,Benfica,4,4–5,Barcelona,5,,,,4,5
+7,Tue,Slovan Bratislava,1,1–3,Stuttgart,3,,,,1,3
+7,Tue,Atlético Madrid,2,2–1,Leverkusen,1,,,,2,1
+7,Tue,Red Star,2,2–3,PSV Eindhoven,3,,,,2,3
+7,Tue,Bologna,2,2–1,Dortmund,1,,,,2,1
+7,Tue,Club Brugge,0,0–0,Juventus,0,,,,0,0
+7,Wed,RB Leipzig,2,2–1,Sporting CP,1,,,,2,1
+7,Wed,Shakthar,2,2–0,Brest,0,,,,2,0
+7,Wed,Celtic,1,1–0,Young Boys,0,,,,1,0
+7,Wed,Arsenal,3,3–0,Dinamo Zagreb,0,,,,3,0
+7,Wed,Paris S-G,4,4–2,Manchester City,2,,,,4,2
+7,Wed,Feyenoord,3,3–0,Bayern Munich,0,,,,3,0
+7,Wed,Real Madrid,5,5–1,RB Salzburg,1,,,,5,1
+7,Wed,Sparta Prague,0,0–1,Inter,1,,,,0,1
+7,Wed,Milan,1,1–0,Girona,0,,,,1,0
+,,,,,,,,,,,
+8,Wed,Manchester City,3,3–1,Club Brugge,1,,,,3,1
+8,Wed,Sporting CP,1,1–1,Bologna,1,,,,1,1
+8,Wed,Aston Villa,4,4–2,Celtic,2,,,,4,2
+8,Wed,Juventus,0,0–2,Benfica,2,,,,0,2
+8,Wed,Brest,0,0–3,Real Madrid,3,,,,0,3
+8,Wed,RB Salzburg,1,1–4,Atlético Madrid,4,,,,1,4
+8,Wed,Dinamo Zagreb,2,2–1,Milan,1,,,,2,1
+8,Wed,Bayern Munich,3,3–1,Slovan Bratislava,1,,,,3,1
+8,Wed,Sturm Graz,1,1–0,RB Leipzig,0,,,,1,0
+8,Wed,Lille,6,6–1,Feyenoord,1,,,,6,1
+8,Wed,Girona,1,1–2,Arsenal,2,,,,1,2
+8,Wed,Young Boys,0,0–1,Red Star,1,,,,0,1
+8,Wed,Stuttgart,1,1–4,Paris S-G,4,,,,1,4
+8,Wed,Inter,3,3–0,Monaco,0,,,,3,0
+8,Wed,Dortmund,3,3–1,Shakthar,1,,,,3,1
+8,Wed,Barcelona,2,2–2,Atalanta,2,,,,2,2
+8,Wed,PSV Eindhoven,3,3–2,Liverpool,2,,,,3,2
+8,Wed,Leverkusen,2,2–0,Sparta Prague,0,,,,2,0
